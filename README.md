@@ -28,14 +28,14 @@ To create a GIF, use [LiceCap](http://www.cockos.com/licecap/), [RecordIt](http:
 - [x]User can use the app as a R.E.P.L.
 - [x]User can supply arguments to the list command to only see todos of a particular project_id.
 - [x]User can supply arguments to the list command to reverse the default sort, to now see the todos by due_date descending.
-[ ] User can supply arguments to the list command to combine the above options.
+- []User can supply arguments to the list command to combine the above options.
 - [x]User can add a user_id to each todo.
 - [x]User can add a user to the system by passing add_user. Each user should have a name, email_address, and id.
 - [x]User can call a list_users command that shows all the users in the system.
 - [x]User can call a staff command that shows each project, combined with each of the users working on that project.
-[ ] User can call a who_to_fire command that lists all users who are not currently assigned a todo.
-[ ] User can add a project by calling add_project. Each project must have a name.
-[ ] User can see all projects from the command line.
+- []User can call a who_to_fire command that lists all users who are not currently assigned a todo.
+- []User can add a project by calling add_project. Each project must have a name.
+- []User can see all projects from the command line.
 
 
 ## License
